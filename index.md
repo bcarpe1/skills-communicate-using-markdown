@@ -13,3 +13,8 @@ class SuperClass
   }
 }
 ```
+
+- [ ] Make an App
+- [ ] Publish an App
+- [ ] ???
+- [ ] Profit
